@@ -1,0 +1,885 @@
+,PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,LastName,FirstName,Title,AgeGroup
+0,1,0,3,male,22.0,1,0,Braund, Owen Harris, Mr,Adult
+1,2,1,1,female,38.0,1,0,Cumings, John Bradley (Florence Briggs Thayer), Mrs,Adult
+2,3,1,3,female,26.0,0,0,Heikkinen, Laina, Miss,Adult
+3,4,1,1,female,35.0,1,0,Futrelle, Jacques Heath (Lily May Peel), Mrs,Adult
+4,5,0,3,male,35.0,0,0,Allen, William Henry, Mr,Adult
+5,6,0,3,male,32.0,0,0,Moran, James, Mr,Adult
+6,7,0,1,male,54.0,0,0,McCarthy, Timothy J, Mr,Middle Age
+7,8,0,3,male,2.0,3,1,Palsson, Gosta Leonard, Master,Child
+8,9,1,3,female,27.0,0,2,Johnson, Oscar W (Elisabeth Vilhelmina Berg), Mrs,Adult
+9,10,1,2,female,14.0,1,0,Nasser, Nicholas (Adele Achem), Mrs,Teenager
+10,11,1,3,female,4.0,1,1,Sandstrom, Marguerite Rut, Miss,Child
+11,12,1,1,female,58.0,0,0,Bonnell, Elizabeth, Miss,Middle Age
+12,13,0,3,male,20.0,0,0,Saundercock, William Henry, Mr,Adult
+13,14,0,3,male,39.0,1,5,Andersson, Anders Johan, Mr,Adult
+14,15,0,3,female,14.0,0,0,Vestrom, Hulda Amanda Adolfina, Miss,Teenager
+15,16,1,2,female,55.0,0,0,Hewlett, (Mary D Kingcome) , Mrs,Middle Age
+16,17,0,3,male,2.0,4,1,Rice, Eugene, Master,Child
+17,18,1,2,male,32.0,0,0,Williams, Charles Eugene, Mr,Adult
+18,19,0,3,female,31.0,1,0,Vander Planke, Julius (Emelia Maria Vandemoortele), Mrs,Adult
+19,20,1,3,female,42.0,0,0,Masselmani, Fatima, Mrs,Middle Age
+20,21,0,2,male,35.0,0,0,Fynney, Joseph J, Mr,Adult
+21,22,1,2,male,34.0,0,0,Beesley, Lawrence, Mr,Adult
+22,23,1,3,female,15.0,0,0,McGowan," Anna ""Annie""", Miss,Teenager
+23,24,1,1,male,28.0,0,0,Sloper, William Thompson, Mr,Adult
+24,25,0,3,female,8.0,3,1,Palsson, Torborg Danira, Miss,Child
+25,26,1,3,female,38.0,1,5,Asplund, Carl Oscar (Selma Augusta Emilia Johansson), Mrs,Adult
+26,27,0,3,male,32.0,0,0,Emir, Farred Chehab, Mr,Adult
+27,28,0,1,male,19.0,3,2,Fortune, Charles Alexander, Mr,Teenager
+28,29,1,3,female,28.0,0,0,O'Dwyer," Ellen ""Nellie""", Miss,Adult
+29,30,0,3,male,32.0,0,0,Todoroff, Lalio, Mr,Adult
+30,31,0,1,male,40.0,0,0,Uruchurtu, Manuel E, Don,Middle Age
+31,32,1,1,female,32.0,1,0,Spencer, William Augustus (Marie Eugenie), Mrs,Adult
+32,33,1,3,female,28.0,0,0,Glynn, Mary Agatha, Miss,Adult
+33,34,0,2,male,66.0,0,0,Wheadon, Edward H, Mr,Senior
+34,35,0,1,male,28.0,1,0,Meyer, Edgar Joseph, Mr,Adult
+35,36,0,1,male,42.0,1,0,Holverson, Alexander Oskar, Mr,Middle Age
+36,37,1,3,male,32.0,0,0,Mamee, Hanna, Mr,Adult
+37,38,0,3,male,21.0,0,0,Cann, Ernest Charles, Mr,Adult
+38,39,0,3,female,18.0,2,0,Vander Planke, Augusta Maria, Miss,Teenager
+39,40,1,3,female,14.0,1,0,Nicola-Yarred, Jamila, Miss,Teenager
+40,41,0,3,female,40.0,1,0,Ahlin, Johan (Johanna Persdotter Larsson), Mrs,Middle Age
+41,42,0,2,female,27.0,1,0,Turpin, William John Robert (Dorothy Ann Wonnacott), Mrs,Adult
+42,43,0,3,male,32.0,0,0,Kraeff, Theodor, Mr,Adult
+43,44,1,2,female,3.0,1,2,Laroche, Simonne Marie Anne Andree, Miss,Child
+44,45,1,3,female,19.0,0,0,Devaney, Margaret Delia, Miss,Teenager
+45,46,0,3,male,32.0,0,0,Rogers, William John, Mr,Adult
+46,47,0,3,male,32.0,1,0,Lennon, Denis, Mr,Adult
+47,48,1,3,female,28.0,0,0,O'Driscoll, Bridget, Miss,Adult
+48,49,0,3,male,28.0,2,0,Samaan, Youssef, Mr,Adult
+49,50,0,3,female,18.0,1,0,Arnold-Franchi, Josef (Josefine Franchi), Mrs,Teenager
+50,51,0,3,male,7.0,4,1,Panula, Juha Niilo, Master,Child
+51,52,0,3,male,21.0,0,0,Nosworthy, Richard Cater, Mr,Adult
+52,53,1,1,female,49.0,1,0,Harper, Henry Sleeper (Myna Haxtun), Mrs,Middle Age
+53,54,1,2,female,29.0,1,0,Faunthorpe, Lizzie (Elizabeth Anne Wilkinson), Mrs,Adult
+54,55,0,1,male,65.0,0,1,Ostby, Engelhart Cornelius, Mr,Senior
+55,56,1,1,male,32.0,0,0,Woolner, Hugh, Mr,Adult
+56,57,1,2,female,21.0,0,0,Rugg, Emily, Miss,Adult
+57,58,0,3,male,28.0,0,0,Novel, Mansouer, Mr,Adult
+58,59,1,2,female,5.0,1,2,West, Constance Mirium, Miss,Child
+59,60,0,3,male,11.0,5,2,Goodwin, William Frederick, Master,Child
+60,61,0,3,male,22.0,0,0,Sirayanian, Orsen, Mr,Adult
+61,62,1,1,female,38.0,0,0,Icard, Amelie, Miss,Adult
+62,63,0,1,male,45.0,1,0,Harris, Henry Birkhardt, Mr,Middle Age
+63,64,0,3,male,4.0,3,2,Skoog, Harald, Master,Child
+64,65,0,1,male,32.0,0,0,Stewart, Albert A, Mr,Adult
+65,66,1,3,male,4.0,1,1,Moubarek, Gerios, Master,Child
+66,67,1,2,female,29.0,0,0,Nye, (Elizabeth Ramell), Mrs,Adult
+67,68,0,3,male,19.0,0,0,Crease, Ernest James, Mr,Teenager
+68,69,1,3,female,17.0,4,2,Andersson, Erna Alexandra, Miss,Teenager
+69,70,0,3,male,26.0,2,0,Kink, Vincenz, Mr,Adult
+70,71,0,2,male,32.0,0,0,Jenkin, Stephen Curnow, Mr,Adult
+71,72,0,3,female,16.0,5,2,Goodwin, Lillian Amy, Miss,Teenager
+72,73,0,2,male,21.0,0,0,Hood, Ambrose Jr, Mr,Adult
+73,74,0,3,male,26.0,1,0,Chronopoulos, Apostolos, Mr,Adult
+74,75,1,3,male,32.0,0,0,Bing, Lee, Mr,Adult
+75,76,0,3,male,25.0,0,0,Moen, Sigurd Hansen, Mr,Adult
+76,77,0,3,male,32.0,0,0,Staneff, Ivan, Mr,Adult
+77,78,0,3,male,32.0,0,0,Moutal, Rahamin Haim, Mr,Adult
+78,79,1,2,male,1.0,0,2,Caldwell, Alden Gates, Master,Child
+79,80,1,3,female,30.0,0,0,Dowdell, Elizabeth, Miss,Adult
+80,81,0,3,male,22.0,0,0,Waelens, Achille, Mr,Adult
+81,82,1,3,male,29.0,0,0,Sheerlinck, Jan Baptist, Mr,Adult
+82,83,1,3,female,28.0,0,0,McDermott, Brigdet Delia, Miss,Adult
+83,84,0,1,male,28.0,0,0,Carrau, Francisco M, Mr,Adult
+84,85,1,2,female,17.0,0,0,Ilett, Bertha, Miss,Teenager
+85,86,1,3,female,33.0,3,0,Backstrom, Karl Alfred (Maria Mathilda Gustafsson), Mrs,Adult
+86,87,0,3,male,16.0,1,3,Ford, William Neal, Mr,Teenager
+87,88,0,3,male,32.0,0,0,Slocovski, Selman Francis, Mr,Adult
+88,89,1,1,female,23.0,3,2,Fortune, Mabel Helen, Miss,Adult
+89,90,0,3,male,24.0,0,0,Celotti, Francesco, Mr,Adult
+90,91,0,3,male,29.0,0,0,Christmann, Emil, Mr,Adult
+91,92,0,3,male,20.0,0,0,Andreasson, Paul Edvin, Mr,Adult
+92,93,0,1,male,46.0,1,0,Chaffee, Herbert Fuller, Mr,Middle Age
+93,94,0,3,male,26.0,1,2,Dean, Bertram Frank, Mr,Adult
+94,95,0,3,male,59.0,0,0,Coxon, Daniel, Mr,Middle Age
+95,96,0,3,male,32.0,0,0,Shorney, Charles Joseph, Mr,Adult
+96,97,0,1,male,71.0,0,0,Goldschmidt, George B, Mr,Senior
+97,98,1,1,male,23.0,0,1,Greenfield, William Bertram, Mr,Adult
+98,99,1,2,female,34.0,0,1,Doling, John T (Ada Julia Bone), Mrs,Adult
+99,100,0,2,male,34.0,1,0,Kantor, Sinai, Mr,Adult
+100,101,0,3,female,28.0,0,0,Petranec, Matilda, Miss,Adult
+101,102,0,3,male,32.0,0,0,Petroff," Pastcho (""Pentcho"")", Mr,Adult
+102,103,0,1,male,21.0,0,1,White, Richard Frasar, Mr,Adult
+103,104,0,3,male,33.0,0,0,Johansson, Gustaf Joel, Mr,Adult
+104,105,0,3,male,37.0,2,0,Gustafsson, Anders Vilhelm, Mr,Adult
+105,106,0,3,male,28.0,0,0,Mionoff, Stoytcho, Mr,Adult
+106,107,1,3,female,21.0,0,0,Salkjelsvik, Anna Kristine, Miss,Adult
+107,108,1,3,male,32.0,0,0,Moss, Albert Johan, Mr,Adult
+108,109,0,3,male,38.0,0,0,Rekic, Tido, Mr,Adult
+109,110,1,3,female,29.0,1,0,Moran, Bertha, Miss,Adult
+110,111,0,1,male,47.0,0,0,Porter, Walter Chamberlain, Mr,Middle Age
+111,112,0,3,female,14.0,1,0,Zabour, Hileni, Miss,Teenager
+112,113,0,3,male,22.0,0,0,Barton, David John, Mr,Adult
+113,114,0,3,female,20.0,1,0,Jussila, Katriina, Miss,Adult
+114,115,0,3,female,17.0,0,0,Attalah, Malake, Miss,Teenager
+115,116,0,3,male,21.0,0,0,Pekoniemi, Edvard, Mr,Adult
+116,117,0,3,male,70.0,0,0,Connors, Patrick, Mr,Senior
+117,118,0,2,male,29.0,1,0,Turpin, William John Robert, Mr,Adult
+118,119,0,1,male,24.0,0,1,Baxter, Quigg Edmond, Mr,Adult
+119,120,0,3,female,2.0,4,2,Andersson, Ellis Anna Maria, Miss,Child
+120,121,0,2,male,21.0,2,0,Hickman, Stanley George, Mr,Adult
+121,122,0,3,male,32.0,0,0,Moore, Leonard Charles, Mr,Adult
+122,123,0,2,male,32.0,1,0,Nasser, Nicholas, Mr,Adult
+123,124,1,2,female,32.0,0,0,Webber, Susan, Miss,Adult
+124,125,0,1,male,54.0,0,1,White, Percival Wayland, Mr,Middle Age
+125,126,1,3,male,12.0,1,0,Nicola-Yarred, Elias, Master,Child
+126,127,0,3,male,32.0,0,0,McMahon, Martin, Mr,Adult
+127,128,1,3,male,24.0,0,0,Madsen, Fridtjof Arne, Mr,Adult
+128,129,1,3,female,12.0,1,1,Peter, Anna, Miss,Child
+129,130,0,3,male,45.0,0,0,Ekstrom, Johan, Mr,Middle Age
+130,131,0,3,male,33.0,0,0,Drazenoic, Jozef, Mr,Adult
+131,132,0,3,male,20.0,0,0,Coelho, Domingos Fernandeo, Mr,Adult
+132,133,0,3,female,47.0,1,0,Robins, Alexander A (Grace Charity Laury), Mrs,Middle Age
+133,134,1,2,female,29.0,1,0,Weisz, Leopold (Mathilde Francoise Pede), Mrs,Adult
+134,135,0,2,male,25.0,0,0,Sobey, Samuel James Hayden, Mr,Adult
+135,136,0,2,male,23.0,0,0,Richard, Emile, Mr,Adult
+136,137,1,1,female,19.0,0,2,Newsom, Helen Monypeny, Miss,Teenager
+137,138,0,1,male,37.0,1,0,Futrelle, Jacques Heath, Mr,Adult
+138,139,0,3,male,16.0,0,0,Osen, Olaf Elon, Mr,Teenager
+139,140,0,1,male,24.0,0,0,Giglio, Victor, Mr,Adult
+140,141,0,3,female,30.0,0,2,Boulos, Joseph (Sultana), Mrs,Adult
+141,142,1,3,female,22.0,0,0,Nysten, Anna Sofia, Miss,Adult
+142,143,1,3,female,24.0,1,0,Hakkarainen, Pekka Pietari (Elin Matilda Dolck), Mrs,Adult
+143,144,0,3,male,19.0,0,0,Burke, Jeremiah, Mr,Teenager
+144,145,0,2,male,18.0,0,0,Andrew, Edgardo Samuel, Mr,Teenager
+145,146,0,2,male,19.0,1,1,Nicholls, Joseph Charles, Mr,Teenager
+146,147,1,3,male,27.0,0,0,Andersson," August Edvard (""Wennerstrom"")", Mr,Adult
+147,148,0,3,female,9.0,2,2,Ford," Robina Maggie ""Ruby""", Miss,Child
+148,149,0,2,male,36.0,0,2,Navratil," Michel (""Louis M Hoffman"")", Mr,Adult
+149,150,0,2,male,42.0,0,0,Byles, Thomas Roussel Davids, Rev,Middle Age
+150,151,0,2,male,51.0,0,0,Bateman, Robert James, Rev,Middle Age
+151,152,1,1,female,22.0,1,0,Pears, Thomas (Edith Wearne), Mrs,Adult
+152,153,0,3,male,56.0,0,0,Meo, Alfonzo, Mr,Middle Age
+153,154,0,3,male,40.0,0,2,van Billiard, Austin Blyler, Mr,Middle Age
+154,155,0,3,male,32.0,0,0,Olsen, Ole Martin, Mr,Adult
+155,156,0,1,male,51.0,0,1,Williams, Charles Duane, Mr,Middle Age
+156,157,1,3,female,16.0,0,0,Gilnagh," Katherine ""Katie""", Miss,Teenager
+157,158,0,3,male,30.0,0,0,Corn, Harry, Mr,Adult
+158,159,0,3,male,32.0,0,0,Smiljanic, Mile, Mr,Adult
+160,161,0,3,male,44.0,0,1,Cribb, John Hatfield, Mr,Middle Age
+161,162,1,2,female,40.0,0,0,Watt," James (Elizabeth ""Bessie"" Inglis Milne)", Mrs,Middle Age
+162,163,0,3,male,26.0,0,0,Bengtsson, John Viktor, Mr,Adult
+163,164,0,3,male,17.0,0,0,Calic, Jovo, Mr,Teenager
+164,165,0,3,male,1.0,4,1,Panula, Eino Viljami, Master,Child
+165,166,1,3,male,9.0,0,2,Goldsmith," Frank John William ""Frankie""", Master,Child
+166,167,1,1,female,41.0,0,1,Chibnall, (Edith Martha Bowerman), Mrs,Middle Age
+167,168,0,3,female,45.0,1,4,Skoog, William (Anna Bernhardina Karlsson), Mrs,Middle Age
+168,169,0,1,male,32.0,0,0,Baumann, John D, Mr,Adult
+169,170,0,3,male,28.0,0,0,Ling, Lee, Mr,Adult
+170,171,0,1,male,61.0,0,0,Van der hoef, Wyckoff, Mr,Senior
+171,172,0,3,male,4.0,4,1,Rice, Arthur, Master,Child
+172,173,1,3,female,1.0,1,1,Johnson, Eleanor Ileen, Miss,Child
+173,174,0,3,male,21.0,0,0,Sivola, Antti Wilhelm, Mr,Adult
+174,175,0,1,male,56.0,0,0,Smith, James Clinch, Mr,Middle Age
+175,176,0,3,male,18.0,1,1,Klasen, Klas Albin, Mr,Teenager
+176,177,0,3,male,2.0,3,1,Lefebre, Henry Forbes, Master,Child
+177,178,0,1,female,50.0,0,0,Isham, Ann Elizabeth, Miss,Middle Age
+178,179,0,2,male,30.0,0,0,Hale, Reginald, Mr,Adult
+179,180,0,3,male,36.0,0,0,Leonard, Lionel, Mr,Adult
+181,182,0,2,male,32.0,0,0,Pernot, Rene, Mr,Adult
+182,183,0,3,male,9.0,4,2,Asplund, Clarence Gustaf Hugo, Master,Child
+183,184,1,2,male,1.0,2,1,Becker, Richard F, Master,Child
+184,185,1,3,female,4.0,0,2,Kink-Heilmann, Luise Gretchen, Miss,Child
+185,186,0,1,male,32.0,0,0,Rood, Hugh Roscoe, Mr,Adult
+186,187,1,3,female,32.0,1,0,O'Brien," Thomas (Johanna ""Hannah"" Godfrey)", Mrs,Adult
+187,188,1,1,male,45.0,0,0,Romaine," Charles Hallace (""Mr C Rolmane"")", Mr,Middle Age
+188,189,0,3,male,40.0,1,1,Bourke, John, Mr,Middle Age
+189,190,0,3,male,36.0,0,0,Turcin, Stjepan, Mr,Adult
+190,191,1,2,female,32.0,0,0,Pinsky, (Rosa), Mrs,Adult
+191,192,0,2,male,19.0,0,0,Carbines, William, Mr,Teenager
+192,193,1,3,female,19.0,1,0,Andersen-Jensen, Carla Christine Nielsine, Miss,Teenager
+193,194,1,2,male,3.0,1,1,Navratil, Michel M, Master,Child
+194,195,1,1,female,44.0,0,0,Brown, James Joseph (Margaret Tobin), Mrs,Middle Age
+195,196,1,1,female,58.0,0,0,Lurette, Elise, Miss,Middle Age
+196,197,0,3,male,32.0,0,0,Mernagh, Robert, Mr,Adult
+197,198,0,3,male,42.0,0,1,Olsen, Karl Siegwart Andreas, Mr,Middle Age
+198,199,1,3,female,28.0,0,0,Madigan," Margaret ""Maggie""", Miss,Adult
+199,200,0,2,female,24.0,0,0,Yrois," Henriette (""Mrs Harbeck"")", Miss,Adult
+200,201,0,3,male,28.0,0,0,Vande Walle, Nestor Cyriel, Mr,Adult
+202,203,0,3,male,34.0,0,0,Johanson, Jakob Alfred, Mr,Adult
+203,204,0,3,male,46.0,0,0,Youseff, Gerious, Mr,Middle Age
+204,205,1,3,male,18.0,0,0,Cohen," Gurshon ""Gus""", Mr,Teenager
+205,206,0,3,female,2.0,0,1,Strom, Telma Matilda, Miss,Child
+206,207,0,3,male,32.0,1,0,Backstrom, Karl Alfred, Mr,Adult
+207,208,1,3,male,26.0,0,0,Albimona, Nassef Cassem, Mr,Adult
+208,209,1,3,female,16.0,0,0,Carr," Helen ""Ellen""", Miss,Teenager
+209,210,1,1,male,40.0,0,0,Blank, Henry, Mr,Middle Age
+210,211,0,3,male,24.0,0,0,Ali, Ahmed, Mr,Adult
+211,212,1,2,female,35.0,0,0,Cameron, Clear Annie, Miss,Adult
+212,213,0,3,male,22.0,0,0,Perkin, John Henry, Mr,Adult
+213,214,0,2,male,30.0,0,0,Givard, Hans Kristensen, Mr,Adult
+214,215,0,3,male,32.0,1,0,Kiernan, Philip, Mr,Adult
+215,216,1,1,female,31.0,1,0,Newell, Madeleine, Miss,Adult
+216,217,1,3,female,27.0,0,0,Honkanen, Eliina, Miss,Adult
+217,218,0,2,male,42.0,1,0,Jacobsohn, Sidney Samuel, Mr,Middle Age
+218,219,1,1,female,32.0,0,0,Bazzani, Albina, Miss,Adult
+219,220,0,2,male,30.0,0,0,Harris, Walter, Mr,Adult
+220,221,1,3,male,16.0,0,0,Sunderland, Victor Francis, Mr,Teenager
+221,222,0,2,male,27.0,0,0,Bracken, James H, Mr,Adult
+222,223,0,3,male,51.0,0,0,Green, George Henry, Mr,Middle Age
+223,224,0,3,male,32.0,0,0,Nenkoff, Christo, Mr,Adult
+224,225,1,1,male,38.0,1,0,Hoyt, Frederick Maxfield, Mr,Adult
+225,226,0,3,male,22.0,0,0,Berglund, Karl Ivar Sven, Mr,Adult
+226,227,1,2,male,19.0,0,0,Mellors, William John, Mr,Teenager
+227,228,0,3,male,20.0,0,0,Lovell," John Hall (""Henry"")", Mr,Adult
+228,229,0,2,male,18.0,0,0,Fahlstrom, Arne Jonas, Mr,Teenager
+229,230,0,3,female,6.0,3,1,Lefebre, Mathilde, Miss,Child
+230,231,1,1,female,35.0,1,0,Harris, Henry Birkhardt (Irene Wallach), Mrs,Adult
+231,232,0,3,male,29.0,0,0,Larsson, Bengt Edvin, Mr,Adult
+232,233,0,2,male,59.0,0,0,Sjostedt, Ernst Adolf, Mr,Middle Age
+233,234,1,3,female,5.0,4,2,Asplund, Lillian Gertrud, Miss,Child
+234,235,0,2,male,24.0,0,0,Leyson, Robert William Norman, Mr,Adult
+235,236,0,3,female,28.0,0,0,Harknett, Alice Phoebe, Miss,Adult
+236,237,0,2,male,44.0,1,0,Hold, Stephen, Mr,Middle Age
+237,238,1,2,female,8.0,0,2,Collyer," Marjorie ""Lottie""", Miss,Child
+238,239,0,2,male,19.0,0,0,Pengelly, Frederick William, Mr,Teenager
+239,240,0,2,male,33.0,0,0,Hunt, George Henry, Mr,Adult
+240,241,0,3,female,29.0,1,0,Zabour, Thamine, Miss,Adult
+241,242,1,3,female,29.0,1,0,Murphy," Katherine ""Kate""", Miss,Adult
+242,243,0,2,male,29.0,0,0,Coleridge, Reginald Charles, Mr,Adult
+243,244,0,3,male,22.0,0,0,Maenpaa, Matti Alexanteri, Mr,Adult
+244,245,0,3,male,30.0,0,0,Attalah, Sleiman, Mr,Adult
+245,246,0,1,male,44.0,2,0,Minahan, William Edward, Dr,Middle Age
+246,247,0,3,female,25.0,0,0,Lindahl, Agda Thorilda Viktoria, Miss,Adult
+247,248,1,2,female,24.0,0,2,Hamalainen, William (Anna), Mrs,Adult
+248,249,1,1,male,37.0,1,1,Beckwith, Richard Leonard, Mr,Adult
+249,250,0,2,male,54.0,1,0,Carter, Ernest Courtenay, Rev,Middle Age
+250,251,0,3,male,32.0,0,0,Reed, James George, Mr,Adult
+251,252,0,3,female,29.0,1,1,Strom, Wilhelm (Elna Matilda Persson), Mrs,Adult
+252,253,0,1,male,62.0,0,0,Stead, William Thomas, Mr,Senior
+253,254,0,3,male,30.0,1,0,Lobb, William Arthur, Mr,Adult
+254,255,0,3,female,41.0,0,2,Rosblom, Viktor (Helena Wilhelmina), Mrs,Middle Age
+255,256,1,3,female,29.0,0,2,Touma, Darwis (Hanne Youssef Razi), Mrs,Adult
+256,257,1,1,female,42.0,0,0,Thorne, Gertrude Maybelle, Mrs,Middle Age
+257,258,1,1,female,30.0,0,0,Cherry, Gladys, Miss,Adult
+258,259,1,1,female,35.0,0,0,Ward, Anna, Miss,Adult
+259,260,1,2,female,50.0,0,1,Parrish, (Lutie Davis), Mrs,Middle Age
+260,261,0,3,male,32.0,0,0,Smith, Thomas, Mr,Adult
+261,262,1,3,male,3.0,4,2,Asplund, Edvin Rojj Felix, Master,Child
+262,263,0,1,male,52.0,1,1,Taussig, Emil, Mr,Middle Age
+263,264,0,1,male,40.0,0,0,Harrison, William, Mr,Middle Age
+264,265,0,3,female,28.0,0,0,Henry, Delia, Miss,Adult
+265,266,0,2,male,36.0,0,0,Reeves, David, Mr,Adult
+266,267,0,3,male,16.0,4,1,Panula, Ernesti Arvid, Mr,Teenager
+267,268,1,3,male,25.0,1,0,Persson, Ernst Ulrik, Mr,Adult
+268,269,1,1,female,58.0,0,1,Graham, William Thompson (Edith Junkins), Mrs,Middle Age
+269,270,1,1,female,35.0,0,0,Bissette, Amelia, Miss,Adult
+270,271,0,1,male,32.0,0,0,Cairns, Alexander, Mr,Adult
+271,272,1,3,male,25.0,0,0,Tornquist, William Henry, Mr,Adult
+272,273,1,2,female,41.0,0,1,Mellinger, (Elizabeth Anne Maidment), Mrs,Middle Age
+273,274,0,1,male,37.0,0,1,Natsch, Charles H, Mr,Adult
+274,275,1,3,female,28.0,0,0,Healy," Hanora ""Nora""", Miss,Adult
+275,276,1,1,female,63.0,1,0,Andrews, Kornelia Theodosia, Miss,Senior
+276,277,0,3,female,45.0,0,0,Lindblom, Augusta Charlotta, Miss,Middle Age
+277,278,0,2,male,32.0,0,0,Parkes," Francis ""Frank""", Mr,Adult
+278,279,0,3,male,7.0,4,1,Rice, Eric, Master,Child
+279,280,1,3,female,35.0,1,1,Abbott, Stanton (Rosa Hunt), Mrs,Adult
+280,281,0,3,male,65.0,0,0,Duane, Frank, Mr,Senior
+281,282,0,3,male,28.0,0,0,Olsson, Nils Johan Goransson, Mr,Adult
+282,283,0,3,male,16.0,0,0,de Pelsmaeker, Alfons, Mr,Teenager
+283,284,1,3,male,19.0,0,0,Dorking, Edward Arthur, Mr,Teenager
+284,285,0,1,male,32.0,0,0,Smith, Richard William, Mr,Adult
+285,286,0,3,male,33.0,0,0,Stankovic, Ivan, Mr,Adult
+286,287,1,3,male,30.0,0,0,de Mulder, Theodore, Mr,Adult
+287,288,0,3,male,22.0,0,0,Naidenoff, Penko, Mr,Adult
+288,289,1,2,male,42.0,0,0,Hosono, Masabumi, Mr,Middle Age
+289,290,1,3,female,22.0,0,0,Connolly, Kate, Miss,Adult
+290,291,1,1,female,26.0,0,0,Barber," Ellen ""Nellie""", Miss,Adult
+291,292,1,1,female,19.0,1,0,Bishop, Dickinson H (Helen Walton), Mrs,Teenager
+292,293,0,2,male,36.0,0,0,Levy, Rene Jacques, Mr,Adult
+293,294,0,3,female,24.0,0,0,Haas, Aloisia, Miss,Adult
+294,295,0,3,male,24.0,0,0,Mineff, Ivan, Mr,Adult
+295,296,0,1,male,32.0,0,0,Lewy, Ervin G, Mr,Adult
+296,297,0,3,male,24.0,0,0,Hanna, Mansour, Mr,Adult
+297,298,0,1,female,2.0,1,2,Allison, Helen Loraine, Miss,Child
+298,299,1,1,male,32.0,0,0,Saalfeld, Adolphe, Mr,Adult
+299,300,1,1,female,50.0,0,1,Baxter, James (Helene DeLaudeniere Chaput), Mrs,Middle Age
+300,301,1,3,female,28.0,0,0,Kelly," Anna Katherine ""Annie Kate""", Miss,Adult
+301,302,1,3,male,28.0,2,0,McCoy, Bernard, Mr,Adult
+302,303,0,3,male,19.0,0,0,Johnson, William Cahoone Jr, Mr,Teenager
+303,304,1,2,female,28.0,0,0,Keane, Nora A, Miss,Adult
+304,305,0,3,male,32.0,0,0,Williams," Howard Hugh ""Harry""", Mr,Adult
+305,306,1,1,male,1.0,1,2,Allison, Hudson Trevor, Master,Child
+306,307,1,1,female,28.0,0,0,Fleming, Margaret, Miss,Adult
+307,308,1,1,female,17.0,1,0,Penasco y Castellana, Victor de Satode (Maria Josefa Perez de Soto y Vallejo), Mrs,Teenager
+308,309,0,2,male,30.0,1,0,Abelson, Samuel, Mr,Adult
+309,310,1,1,female,30.0,0,0,Francatelli, Laura Mabel, Miss,Adult
+310,311,1,1,female,24.0,0,0,Hays, Margaret Bechstein, Miss,Adult
+311,312,1,1,female,18.0,2,2,Ryerson, Emily Borie, Miss,Teenager
+312,313,0,2,female,26.0,1,1,Lahtinen, William (Anna Sylfven), Mrs,Adult
+313,314,0,3,male,28.0,0,0,Hendekovic, Ignjac, Mr,Adult
+314,315,0,2,male,43.0,1,1,Hart, Benjamin, Mr,Middle Age
+315,316,1,3,female,26.0,0,0,Nilsson, Helmina Josefina, Miss,Adult
+316,317,1,2,female,24.0,1,0,Kantor, Sinai (Miriam Sternin), Mrs,Adult
+317,318,0,2,male,54.0,0,0,Moraweck, Ernest, Dr,Middle Age
+318,319,1,1,female,31.0,0,2,Wick, Mary Natalie, Miss,Adult
+319,320,1,1,female,40.0,1,1,Spedden, Frederic Oakley (Margaretta Corning Stone), Mrs,Middle Age
+320,321,0,3,male,22.0,0,0,Dennis, Samuel, Mr,Adult
+321,322,0,3,male,27.0,0,0,Danoff, Yoto, Mr,Adult
+322,323,1,2,female,30.0,0,0,Slayter, Hilda Mary, Miss,Adult
+323,324,1,2,female,22.0,1,1,Caldwell, Albert Francis (Sylvia Mae Harbaugh), Mrs,Adult
+325,326,1,1,female,36.0,0,0,Young, Marie Grice, Miss,Adult
+326,327,0,3,male,61.0,0,0,Nysveen, Johan Hansen, Mr,Senior
+327,328,1,2,female,36.0,0,0,Ball, (Ada E Hall), Mrs,Adult
+328,329,1,3,female,31.0,1,1,Goldsmith, Frank John (Emily Alice Brown), Mrs,Adult
+329,330,1,1,female,16.0,0,1,Hippach, Jean Gertrude, Miss,Teenager
+330,331,1,3,female,18.0,2,0,McCoy, Agnes, Miss,Teenager
+331,332,0,1,male,46.0,0,0,Partner, Austen, Mr,Middle Age
+332,333,0,1,male,38.0,0,1,Graham, George Edward, Mr,Adult
+333,334,0,3,male,16.0,2,0,Vander Planke, Leo Edmondus, Mr,Teenager
+334,335,1,1,female,32.0,1,0,Frauenthal, Henry William (Clara Heinsheimer), Mrs,Adult
+335,336,0,3,male,32.0,0,0,Denkoff, Mitto, Mr,Adult
+336,337,0,1,male,29.0,1,0,Pears, Thomas Clinton, Mr,Adult
+337,338,1,1,female,41.0,0,0,Burns, Elizabeth Margaret, Miss,Middle Age
+338,339,1,3,male,45.0,0,0,Dahl, Karl Edwart, Mr,Middle Age
+339,340,0,1,male,45.0,0,0,Blackwell, Stephen Weart, Mr,Middle Age
+340,341,1,2,male,2.0,1,1,Navratil, Edmond Roger, Master,Child
+341,342,1,1,female,24.0,3,2,Fortune, Alice Elizabeth, Miss,Adult
+342,343,0,2,male,28.0,0,0,Collander, Erik Gustaf, Mr,Adult
+343,344,0,2,male,25.0,0,0,Sedgwick, Charles Frederick Waddington, Mr,Adult
+344,345,0,2,male,36.0,0,0,Fox, Stanley Hubert, Mr,Adult
+345,346,1,2,female,24.0,0,0,Brown," Amelia ""Mildred""", Miss,Adult
+346,347,1,2,female,40.0,0,0,Smith, Marion Elsie, Miss,Middle Age
+347,348,1,3,female,32.0,1,0,Davison, Thomas Henry (Mary E Finck), Mrs,Adult
+348,349,1,3,male,3.0,1,1,Coutts," William Loch ""William""", Master,Child
+349,350,0,3,male,42.0,0,0,Dimic, Jovan, Mr,Middle Age
+350,351,0,3,male,23.0,0,0,Odahl, Nils Martin, Mr,Adult
+351,352,0,1,male,32.0,0,0,Williams-Lambert, Fletcher Fellows, Mr,Adult
+352,353,0,3,male,15.0,1,1,Elias, Tannous, Mr,Teenager
+353,354,0,3,male,25.0,1,0,Arnold-Franchi, Josef, Mr,Adult
+354,355,0,3,male,32.0,0,0,Yousif, Wazli, Mr,Adult
+355,356,0,3,male,28.0,0,0,Vanden Steen, Leo Peter, Mr,Adult
+356,357,1,1,female,22.0,0,1,Bowerman, Elsie Edith, Miss,Adult
+357,358,0,2,female,38.0,0,0,Funk, Annie Clemmer, Miss,Adult
+358,359,1,3,female,28.0,0,0,McGovern, Mary, Miss,Adult
+359,360,1,3,female,28.0,0,0,Mockler," Helen Mary ""Ellie""", Miss,Adult
+360,361,0,3,male,40.0,1,4,Skoog, Wilhelm, Mr,Middle Age
+361,362,0,2,male,29.0,1,0,del Carlo, Sebastiano, Mr,Adult
+362,363,0,3,female,45.0,0,1,Barbara, (Catherine David), Mrs,Middle Age
+363,364,0,3,male,35.0,0,0,Asim, Adola, Mr,Adult
+364,365,0,3,male,32.0,1,0,O'Brien, Thomas, Mr,Adult
+365,366,0,3,male,30.0,0,0,Adahl, Mauritz Nils Martin, Mr,Adult
+366,367,1,1,female,60.0,1,0,Warren, Frank Manley (Anna Sophia Atkinson), Mrs,Senior
+367,368,1,3,female,42.0,0,0,Moussa, (Mantoura Boulos), Mrs,Middle Age
+368,369,1,3,female,28.0,0,0,Jermyn, Annie, Miss,Adult
+369,370,1,1,female,24.0,0,0,Aubart, Leontine Pauline, Mme,Adult
+370,371,1,1,male,25.0,1,0,Harder, George Achilles, Mr,Adult
+371,372,0,3,male,18.0,1,0,Wiklund, Jakob Alfred, Mr,Teenager
+372,373,0,3,male,19.0,0,0,Beavan, William Thomas, Mr,Teenager
+373,374,0,1,male,22.0,0,0,Ringhini, Sante, Mr,Adult
+374,375,0,3,female,3.0,3,1,Palsson, Stina Viola, Miss,Child
+375,376,1,1,female,32.0,1,0,Meyer, Edgar Joseph (Leila Saks), Mrs,Adult
+376,377,1,3,female,22.0,0,0,Landergren, Aurora Adelia, Miss,Adult
+377,378,0,1,male,27.0,0,2,Widener, Harry Elkins, Mr,Adult
+378,379,0,3,male,20.0,0,0,Betros, Tannous, Mr,Adult
+379,380,0,3,male,19.0,0,0,Gustafsson, Karl Gideon, Mr,Teenager
+380,381,1,1,female,42.0,0,0,Bidois, Rosalie, Miss,Middle Age
+381,382,1,3,female,1.0,0,2,Nakid," Maria (""Mary"")", Miss,Child
+382,383,0,3,male,32.0,0,0,Tikkanen, Juho, Mr,Adult
+383,384,1,1,female,35.0,1,0,Holverson, Alexander Oskar (Mary Aline Towner), Mrs,Adult
+384,385,0,3,male,32.0,0,0,Plotcharsky, Vasil, Mr,Adult
+385,386,0,2,male,18.0,0,0,Davies, Charles Henry, Mr,Teenager
+386,387,0,3,male,1.0,5,2,Goodwin, Sidney Leonard, Master,Child
+387,388,1,2,female,36.0,0,0,Buss, Kate, Miss,Adult
+388,389,0,3,male,32.0,0,0,Sadlier, Matthew, Mr,Adult
+389,390,1,2,female,17.0,0,0,Lehmann, Bertha, Miss,Teenager
+390,391,1,1,male,36.0,1,2,Carter, William Ernest, Mr,Adult
+391,392,1,3,male,21.0,0,0,Jansson, Carl Olof, Mr,Adult
+392,393,0,3,male,28.0,2,0,Gustafsson, Johan Birger, Mr,Adult
+393,394,1,1,female,23.0,1,0,Newell, Marjorie, Miss,Adult
+394,395,1,3,female,24.0,0,2,Sandstrom, Hjalmar (Agnes Charlotta Bengtsson), Mrs,Adult
+395,396,0,3,male,22.0,0,0,Johansson, Erik, Mr,Adult
+396,397,0,3,female,31.0,0,0,Olsson, Elina, Miss,Adult
+397,398,0,2,male,46.0,0,0,McKane, Peter David, Mr,Middle Age
+398,399,0,2,male,23.0,0,0,Pain, Alfred, Dr,Adult
+399,400,1,2,female,28.0,0,0,Trout, William H (Jessie L), Mrs,Adult
+400,401,1,3,male,39.0,0,0,Niskanen, Juha, Mr,Adult
+401,402,0,3,male,26.0,0,0,Adams, John, Mr,Adult
+402,403,0,3,female,21.0,1,0,Jussila, Mari Aina, Miss,Adult
+403,404,0,3,male,28.0,1,0,Hakkarainen, Pekka Pietari, Mr,Adult
+404,405,0,3,female,20.0,0,0,Oreskovic, Marija, Miss,Adult
+405,406,0,2,male,34.0,1,0,Gale, Shadrach, Mr,Adult
+406,407,0,3,male,51.0,0,0,Widegren, Carl/Charles Peter, Mr,Middle Age
+407,408,1,2,male,3.0,1,1,Richards, William Rowe, Master,Child
+408,409,0,3,male,21.0,0,0,Birkeland, Hans Martin Monsen, Mr,Adult
+409,410,0,3,female,6.0,3,1,Lefebre, Ida, Miss,Child
+410,411,0,3,male,32.0,0,0,Sdycoff, Todor, Mr,Adult
+411,412,0,3,male,32.0,0,0,Hart, Henry, Mr,Adult
+412,413,1,1,female,33.0,1,0,Minahan, Daisy E, Miss,Adult
+413,414,0,2,male,32.0,0,0,Cunningham, Alfred Fleming, Mr,Adult
+414,415,1,3,male,44.0,0,0,Sundman, Johan Julian, Mr,Middle Age
+415,416,0,3,female,42.0,0,0,Meek, Thomas (Annie Louise Rowley), Mrs,Middle Age
+416,417,1,2,female,34.0,1,1,Drew, James Vivian (Lulu Thorne Christian), Mrs,Adult
+417,418,1,2,female,18.0,0,2,Silven, Lyyli Karoliina, Miss,Teenager
+418,419,0,2,male,30.0,0,0,Matthews, William John, Mr,Adult
+419,420,0,3,female,10.0,0,2,Van Impe, Catharina, Miss,Child
+420,421,0,3,male,32.0,0,0,Gheorgheff, Stanio, Mr,Adult
+421,422,0,3,male,21.0,0,0,Charters, David, Mr,Adult
+422,423,0,3,male,29.0,0,0,Zimmerman, Leo, Mr,Adult
+423,424,0,3,female,28.0,1,1,Danbom, Ernst Gilbert (Anna Sigrid Maria Brogren), Mrs,Adult
+424,425,0,3,male,18.0,1,1,Rosblom, Viktor Richard, Mr,Teenager
+425,426,0,3,male,32.0,0,0,Wiseman, Phillippe, Mr,Adult
+426,427,1,2,female,28.0,1,0,Clarke, Charles V (Ada Maria Winfield), Mrs,Adult
+427,428,1,2,female,19.0,0,0,Phillips," Kate Florence (""Mrs Kate Louise Phillips Marshall"")", Miss,Teenager
+428,429,0,3,male,32.0,0,0,Flynn, James, Mr,Adult
+429,430,1,3,male,32.0,0,0,Pickard, Berk (Berk Trembisky), Mr,Adult
+430,431,1,1,male,28.0,0,0,Bjornstrom-Steffansson, Mauritz Hakan, Mr,Adult
+431,432,1,3,female,32.0,1,0,Thorneycroft, Percival (Florence Kate White), Mrs,Adult
+432,433,1,2,female,42.0,1,0,Louch, Charles Alexander (Alice Adelaide Slow), Mrs,Middle Age
+433,434,0,3,male,17.0,0,0,Kallio, Nikolai Erland, Mr,Teenager
+434,435,0,1,male,50.0,1,0,Silvey, William Baird, Mr,Middle Age
+435,436,1,1,female,14.0,1,2,Carter, Lucile Polk, Miss,Teenager
+436,437,0,3,female,21.0,2,2,Ford," Doolina Margaret ""Daisy""", Miss,Adult
+437,438,1,2,female,24.0,2,3,Richards, Sidney (Emily Hocking), Mrs,Adult
+438,439,0,1,male,64.0,1,4,Fortune, Mark, Mr,Senior
+439,440,0,2,male,31.0,0,0,Kvillner, Johan Henrik Johannesson, Mr,Adult
+440,441,1,2,female,45.0,1,1,Hart, Benjamin (Esther Ada Bloomfield), Mrs,Middle Age
+441,442,0,3,male,20.0,0,0,Hampe, Leon, Mr,Adult
+442,443,0,3,male,25.0,1,0,Petterson, Johan Emil, Mr,Adult
+443,444,1,2,female,28.0,0,0,Reynaldo, Encarnacion, Ms,Adult
+444,445,1,3,male,32.0,0,0,Johannesen-Bratthammer, Bernt, Mr,Adult
+445,446,1,1,male,4.0,0,2,Dodge, Washington, Master,Child
+446,447,1,2,female,13.0,0,1,Mellinger, Madeleine Violet, Miss,Teenager
+447,448,1,1,male,34.0,0,0,Seward, Frederic Kimber, Mr,Adult
+448,449,1,3,female,5.0,2,1,Baclini, Marie Catherine, Miss,Child
+449,450,1,1,male,52.0,0,0,Peuchen, Arthur Godfrey, Major,Middle Age
+450,451,0,2,male,36.0,1,2,West, Edwy Arthur, Mr,Adult
+451,452,0,3,male,32.0,1,0,Hagland, Ingvald Olai Olsen, Mr,Adult
+452,453,0,1,male,30.0,0,0,Foreman, Benjamin Laventall, Mr,Adult
+453,454,1,1,male,49.0,1,0,Goldenberg, Samuel L, Mr,Middle Age
+454,455,0,3,male,32.0,0,0,Peduzzi, Joseph, Mr,Adult
+455,456,1,3,male,29.0,0,0,Jalsevac, Ivan, Mr,Adult
+456,457,0,1,male,65.0,0,0,Millet, Francis Davis, Mr,Senior
+457,458,1,1,female,32.0,1,0,Kenyon, Frederick R (Marion), Mrs,Adult
+458,459,1,2,female,50.0,0,0,Toomey, Ellen, Miss,Middle Age
+459,460,0,3,male,32.0,0,0,O'Connor, Maurice, Mr,Adult
+460,461,1,1,male,48.0,0,0,Anderson, Harry, Mr,Middle Age
+461,462,0,3,male,34.0,0,0,Morley, William, Mr,Adult
+462,463,0,1,male,47.0,0,0,Gee, Arthur H, Mr,Middle Age
+463,464,0,2,male,48.0,0,0,Milling, Jacob Christian, Mr,Middle Age
+464,465,0,3,male,32.0,0,0,Maisner, Simon, Mr,Adult
+465,466,0,3,male,38.0,0,0,Goncalves, Manuel Estanslas, Mr,Adult
+466,467,0,2,male,32.0,0,0,Campbell, William, Mr,Adult
+467,468,0,1,male,56.0,0,0,Smart, John Montgomery, Mr,Middle Age
+468,469,0,3,male,32.0,0,0,Scanlan, James, Mr,Adult
+469,470,1,3,female,1.0,2,1,Baclini, Helene Barbara, Miss,Child
+470,471,0,3,male,32.0,0,0,Keefe, Arthur, Mr,Adult
+471,472,0,3,male,38.0,0,0,Cacic, Luka, Mr,Adult
+472,473,1,2,female,33.0,1,2,West, Edwy Arthur (Ada Mary Worth), Mrs,Adult
+473,474,1,2,female,23.0,0,0,Jerwan, Amin S (Marie Marthe Thuillard), Mrs,Adult
+474,475,0,3,female,22.0,0,0,Strandberg, Ida Sofia, Miss,Adult
+475,476,0,1,male,32.0,0,0,Clifford, George Quincy, Mr,Adult
+476,477,0,2,male,34.0,1,0,Renouf, Peter Henry, Mr,Adult
+477,478,0,3,male,29.0,1,0,Braund, Lewis Richard, Mr,Adult
+478,479,0,3,male,22.0,0,0,Karlsson, Nils August, Mr,Adult
+479,480,1,3,female,2.0,0,1,Hirvonen, Hildur E, Miss,Child
+480,481,0,3,male,9.0,5,2,Goodwin, Harold Victor, Master,Child
+481,482,0,2,male,32.0,0,0,Frost," Anthony Wood ""Archie""", Mr,Adult
+482,483,0,3,male,50.0,0,0,Rouse, Richard Henry, Mr,Middle Age
+483,484,1,3,female,63.0,0,0,Turkula, (Hedwig), Mrs,Senior
+484,485,1,1,male,25.0,1,0,Bishop, Dickinson H, Mr,Adult
+485,486,0,3,female,6.0,3,1,Lefebre, Jeannie, Miss,Child
+486,487,1,1,female,35.0,1,0,Hoyt, Frederick Maxfield (Jane Anne Forby), Mrs,Adult
+487,488,0,1,male,58.0,0,0,Kent, Edward Austin, Mr,Middle Age
+488,489,0,3,male,30.0,0,0,Somerton, Francis William, Mr,Adult
+489,490,1,3,male,9.0,1,1,Coutts," Eden Leslie ""Neville""", Master,Child
+490,491,0,3,male,32.0,1,0,Hagland, Konrad Mathias Reiersen, Mr,Adult
+491,492,0,3,male,21.0,0,0,Windelov, Einar, Mr,Adult
+492,493,0,1,male,55.0,0,0,Molson, Harry Markland, Mr,Middle Age
+493,494,0,1,male,71.0,0,0,Artagaveytia, Ramon, Mr,Senior
+494,495,0,3,male,21.0,0,0,Stanley, Edward Roland, Mr,Adult
+495,496,0,3,male,32.0,0,0,Yousseff, Gerious, Mr,Adult
+496,497,1,1,female,54.0,1,0,Eustis, Elizabeth Mussey, Miss,Middle Age
+497,498,0,3,male,32.0,0,0,Shellard, Frederick William, Mr,Adult
+498,499,0,1,female,25.0,1,2,Allison, Hudson J C (Bessie Waldo Daniels), Mrs,Adult
+499,500,0,3,male,24.0,0,0,Svensson, Olof, Mr,Adult
+500,501,0,3,male,17.0,0,0,Calic, Petar, Mr,Teenager
+501,502,0,3,female,21.0,0,0,Canavan, Mary, Miss,Adult
+502,503,0,3,female,28.0,0,0,O'Sullivan, Bridget Mary, Miss,Adult
+503,504,0,3,female,37.0,0,0,Laitinen, Kristina Sofia, Miss,Adult
+504,505,1,1,female,16.0,0,0,Maioni, Roberta, Miss,Teenager
+505,506,0,1,male,18.0,1,0,Penasco y Castellana, Victor de Satode, Mr,Teenager
+506,507,1,2,female,33.0,0,2,Quick, Frederick Charles (Jane Richards), Mrs,Adult
+507,508,1,1,male,32.0,0,0,Bradley," George (""George Arthur Brayton"")", Mr,Adult
+508,509,0,3,male,28.0,0,0,Olsen, Henry Margido, Mr,Adult
+509,510,1,3,male,26.0,0,0,Lang, Fang, Mr,Adult
+510,511,1,3,male,29.0,0,0,Daly, Eugene Patrick, Mr,Adult
+511,512,0,3,male,32.0,0,0,Webber, James, Mr,Adult
+512,513,1,1,male,36.0,0,0,McGough, James Robert, Mr,Adult
+513,514,1,1,female,54.0,1,0,Rothschild, Martin (Elizabeth L, Mrs,Middle Age
+514,515,0,3,male,24.0,0,0,Coleff, Satio, Mr,Adult
+515,516,0,1,male,47.0,0,0,Walker, William Anderson, Mr,Middle Age
+516,517,1,2,female,34.0,0,0,Lemore, (Amelia Milley), Mrs,Adult
+517,518,0,3,male,32.0,0,0,Ryan, Patrick, Mr,Adult
+518,519,1,2,female,36.0,1,0,Angle," William A (Florence ""Mary"" Agnes Hughes)", Mrs,Adult
+519,520,0,3,male,32.0,0,0,Pavlovic, Stefo, Mr,Adult
+520,521,1,1,female,30.0,0,0,Perreault, Anne, Miss,Adult
+521,522,0,3,male,22.0,0,0,Vovk, Janko, Mr,Adult
+522,523,0,3,male,32.0,0,0,Lahoud, Sarkis, Mr,Adult
+523,524,1,1,female,44.0,0,1,Hippach, Louis Albert (Ida Sophia Fischer), Mrs,Middle Age
+524,525,0,3,male,32.0,0,0,Kassem, Fared, Mr,Adult
+525,526,0,3,male,40.0,0,0,Farrell, James, Mr,Middle Age
+526,527,1,2,female,50.0,0,0,Ridsdale, Lucy, Miss,Middle Age
+527,528,0,1,male,32.0,0,0,Farthing, John, Mr,Adult
+528,529,0,3,male,39.0,0,0,Salonen, Johan Werner, Mr,Adult
+529,530,0,2,male,23.0,2,1,Hocking, Richard George, Mr,Adult
+530,531,1,2,female,2.0,1,1,Quick, Phyllis May, Miss,Child
+531,532,0,3,male,32.0,0,0,Toufik, Nakli, Mr,Adult
+532,533,0,3,male,17.0,1,1,Elias, Joseph Jr, Mr,Teenager
+533,534,1,3,female,30.0,0,2,Peter, Catherine (Catherine Rizk), Mrs,Adult
+534,535,0,3,female,30.0,0,0,Cacic, Marija, Miss,Adult
+535,536,1,2,female,7.0,0,2,Hart, Eva Miriam, Miss,Child
+536,537,0,1,male,45.0,0,0,Butt, Archibald Willingham, Major,Middle Age
+537,538,1,1,female,30.0,0,0,LeRoy, Bertha, Miss,Adult
+538,539,0,3,male,32.0,0,0,Risien, Samuel Beard, Mr,Adult
+539,540,1,1,female,22.0,0,2,Frolicher, Hedwig Margaritha, Miss,Adult
+540,541,1,1,female,36.0,0,2,Crosby, Harriet R, Miss,Adult
+541,542,0,3,female,9.0,4,2,Andersson, Ingeborg Constanzia, Miss,Child
+542,543,0,3,female,11.0,4,2,Andersson, Sigrid Elisabeth, Miss,Child
+543,544,1,2,male,32.0,1,0,Beane, Edward, Mr,Adult
+544,545,0,1,male,50.0,1,0,Douglas, Walter Donald, Mr,Middle Age
+545,546,0,1,male,64.0,0,0,Nicholson, Arthur Ernest, Mr,Senior
+546,547,1,2,female,19.0,1,0,Beane, Edward (Ethel Clarke), Mrs,Teenager
+547,548,1,2,male,32.0,0,0,Padro y Manent, Julian, Mr,Adult
+548,549,0,3,male,33.0,1,1,Goldsmith, Frank John, Mr,Adult
+549,550,1,2,male,8.0,1,1,Davies, John Morgan Jr, Master,Child
+550,551,1,1,male,17.0,0,2,Thayer, John Borland Jr, Mr,Teenager
+551,552,0,2,male,27.0,0,0,Sharp, Percival James R, Mr,Adult
+552,553,0,3,male,32.0,0,0,O'Brien, Timothy, Mr,Adult
+553,554,1,3,male,22.0,0,0,Leeni," Fahim (""Philip Zenni"")", Mr,Adult
+554,555,1,3,female,22.0,0,0,Ohman, Velin, Miss,Adult
+555,556,0,1,male,62.0,0,0,Wright, George, Mr,Senior
+556,557,1,1,female,48.0,1,0,Duff Gordon," (Lucille Christiana Sutherland) (""Mrs Morgan"")", Lady,Middle Age
+557,558,0,1,male,32.0,0,0,Robbins, Victor, Mr,Adult
+558,559,1,1,female,39.0,1,1,Taussig, Emil (Tillie Mandelbaum), Mrs,Adult
+559,560,1,3,female,36.0,1,0,de Messemaeker, Guillaume Joseph (Emma), Mrs,Adult
+560,561,0,3,male,32.0,0,0,Morrow, Thomas Rowan, Mr,Adult
+561,562,0,3,male,40.0,0,0,Sivic, Husein, Mr,Middle Age
+562,563,0,2,male,28.0,0,0,Norman, Robert Douglas, Mr,Adult
+563,564,0,3,male,32.0,0,0,Simmons, John, Mr,Adult
+564,565,0,3,female,28.0,0,0,Meanwell, (Marion Ogden), Miss,Adult
+565,566,0,3,male,24.0,2,0,Davies, Alfred J, Mr,Adult
+566,567,0,3,male,19.0,0,0,Stoytcheff, Ilia, Mr,Teenager
+567,568,0,3,female,29.0,0,4,Palsson, Nils (Alma Cornelia Berglund), Mrs,Adult
+568,569,0,3,male,32.0,0,0,Doharr, Tannous, Mr,Adult
+569,570,1,3,male,32.0,0,0,Jonsson, Carl, Mr,Adult
+570,571,1,2,male,62.0,0,0,Harris, George, Mr,Senior
+571,572,1,1,female,53.0,2,0,Appleton, Edward Dale (Charlotte Lamson), Mrs,Middle Age
+572,573,1,1,male,36.0,0,0,Flynn," John Irwin (""Irving"")", Mr,Adult
+573,574,1,3,female,28.0,0,0,Kelly, Mary, Miss,Adult
+574,575,0,3,male,16.0,0,0,Rush, Alfred George John, Mr,Teenager
+575,576,0,3,male,19.0,0,0,Patchett, George, Mr,Teenager
+576,577,1,2,female,34.0,0,0,Garside, Ethel, Miss,Adult
+577,578,1,1,female,39.0,1,0,Silvey, William Baird (Alice Munger), Mrs,Adult
+578,579,0,3,female,32.0,1,0,Caram, Joseph (Maria Elias), Mrs,Adult
+579,580,1,3,male,32.0,0,0,Jussila, Eiriik, Mr,Adult
+580,581,1,2,female,25.0,1,1,Christy, Julie Rachel, Miss,Adult
+581,582,1,1,female,39.0,1,1,Thayer, John Borland (Marian Longstreth Morris), Mrs,Adult
+582,583,0,2,male,54.0,0,0,Downton, William James, Mr,Middle Age
+583,584,0,1,male,36.0,0,0,Ross, John Hugo, Mr,Adult
+584,585,0,3,male,32.0,0,0,Paulner, Uscher, Mr,Adult
+585,586,1,1,female,18.0,0,2,Taussig, Ruth, Miss,Teenager
+586,587,0,2,male,47.0,0,0,Jarvis, John Denzil, Mr,Middle Age
+587,588,1,1,male,60.0,1,1,Frolicher-Stehli, Maxmillian, Mr,Senior
+588,589,0,3,male,22.0,0,0,Gilinski, Eliezer, Mr,Adult
+589,590,0,3,male,32.0,0,0,Murdlin, Joseph, Mr,Adult
+590,591,0,3,male,35.0,0,0,Rintamaki, Matti, Mr,Adult
+591,592,1,1,female,52.0,1,0,Stephenson, Walter Bertram (Martha Eustis), Mrs,Middle Age
+592,593,0,3,male,47.0,0,0,Elsbury, William James, Mr,Middle Age
+593,594,0,3,female,16.0,0,2,Bourke, Mary, Miss,Teenager
+594,595,0,2,male,37.0,1,0,Chapman, John Henry, Mr,Adult
+595,596,0,3,male,36.0,1,1,Van Impe, Jean Baptiste, Mr,Adult
+596,597,1,2,female,28.0,0,0,Leitch, Jessie Wills, Miss,Adult
+597,598,0,3,male,49.0,0,0,Johnson, Alfred, Mr,Middle Age
+598,599,0,3,male,32.0,0,0,Boulos, Hanna, Mr,Adult
+599,600,1,1,male,49.0,1,0,Duff Gordon," Cosmo Edmund (""Mr Morgan"")", Sir,Middle Age
+600,601,1,2,female,24.0,2,1,Jacobsohn, Sidney Samuel (Amy Frances Christy), Mrs,Adult
+601,602,0,3,male,32.0,0,0,Slabenoff, Petco, Mr,Adult
+602,603,0,1,male,32.0,0,0,Harrington, Charles H, Mr,Adult
+603,604,0,3,male,44.0,0,0,Torber, Ernst William, Mr,Middle Age
+604,605,1,1,male,35.0,0,0,Homer," Harry (""Mr E Haven"")", Mr,Adult
+605,606,0,3,male,36.0,1,0,Lindell, Edvard Bengtsson, Mr,Adult
+606,607,0,3,male,30.0,0,0,Karaic, Milan, Mr,Adult
+607,608,1,1,male,27.0,0,0,Daniel, Robert Williams, Mr,Adult
+608,609,1,2,female,22.0,1,2,Laroche, Joseph (Juliette Marie Louise Lafargue), Mrs,Adult
+609,610,1,1,female,40.0,0,0,Shutes, Elizabeth W, Miss,Middle Age
+610,611,0,3,female,39.0,1,5,Andersson, Anders Johan (Alfrida Konstantia Brogren), Mrs,Adult
+611,612,0,3,male,32.0,0,0,Jardin, Jose Neto, Mr,Adult
+612,613,1,3,female,29.0,1,0,Murphy, Margaret Jane, Miss,Adult
+613,614,0,3,male,32.0,0,0,Horgan, John, Mr,Adult
+614,615,0,3,male,35.0,0,0,Brocklebank, William Alfred, Mr,Adult
+615,616,1,2,female,24.0,1,2,Herman, Alice, Miss,Adult
+616,617,0,3,male,34.0,1,1,Danbom, Ernst Gilbert, Mr,Adult
+617,618,0,3,female,26.0,1,0,Lobb, William Arthur (Cordelia K Stanlick), Mrs,Adult
+618,619,1,2,female,4.0,2,1,Becker, Marion Louise, Miss,Child
+619,620,0,2,male,26.0,0,0,Gavey, Lawrence, Mr,Adult
+620,621,0,3,male,27.0,1,0,Yasbeck, Antoni, Mr,Adult
+621,622,1,1,male,42.0,1,0,Kimball, Edwin Nelson Jr, Mr,Middle Age
+622,623,1,3,male,20.0,1,1,Nakid, Sahid, Mr,Adult
+623,624,0,3,male,21.0,0,0,Hansen, Henry Damsgaard, Mr,Adult
+624,625,0,3,male,21.0,0,0,Bowen," David John ""Dai""", Mr,Adult
+625,626,0,1,male,61.0,0,0,Sutton, Frederick, Mr,Senior
+626,627,0,2,male,57.0,0,0,Kirkland, Charles Leonard, Rev,Middle Age
+627,628,1,1,female,21.0,0,0,Longley, Gretchen Fiske, Miss,Adult
+628,629,0,3,male,26.0,0,0,Bostandyeff, Guentcho, Mr,Adult
+629,630,0,3,male,32.0,0,0,O'Connell, Patrick D, Mr,Adult
+630,631,1,1,male,80.0,0,0,Barkworth, Algernon Henry Wilson, Mr,Senior
+631,632,0,3,male,51.0,0,0,Lundahl, Johan Svensson, Mr,Middle Age
+632,633,1,1,male,32.0,0,0,Stahelin-Maeglin, Max, Dr,Adult
+633,634,0,1,male,32.0,0,0,Parr, William Henry Marsh, Mr,Adult
+634,635,0,3,female,9.0,3,2,Skoog, Mabel, Miss,Child
+635,636,1,2,female,28.0,0,0,Davis, Mary, Miss,Adult
+636,637,0,3,male,32.0,0,0,Leinonen, Antti Gustaf, Mr,Adult
+637,638,0,2,male,31.0,1,1,Collyer, Harvey, Mr,Adult
+638,639,0,3,female,41.0,0,5,Panula, Juha (Maria Emilia Ojala), Mrs,Middle Age
+639,640,0,3,male,32.0,1,0,Thorneycroft, Percival, Mr,Adult
+640,641,0,3,male,20.0,0,0,Jensen, Hans Peder, Mr,Adult
+641,642,1,1,female,24.0,0,0,Sagesser, Emma, Mlle,Adult
+642,643,0,3,female,2.0,3,2,Skoog, Margit Elizabeth, Miss,Child
+643,644,1,3,male,32.0,0,0,Foo, Choong, Mr,Adult
+644,645,1,3,female,1.0,2,1,Baclini, Eugenie, Miss,Child
+645,646,1,1,male,48.0,1,0,Harper, Henry Sleeper, Mr,Middle Age
+646,647,0,3,male,19.0,0,0,Cor, Liudevit, Mr,Teenager
+647,648,1,1,male,56.0,0,0,Simonius-Blumer, Oberst Alfons, Col,Middle Age
+648,649,0,3,male,32.0,0,0,Willey, Edward, Mr,Adult
+649,650,1,3,female,23.0,0,0,Stanley, Amy Zillah Elsie, Miss,Adult
+650,651,0,3,male,32.0,0,0,Mitkoff, Mito, Mr,Adult
+651,652,1,2,female,18.0,0,1,Doling, Elsie, Miss,Teenager
+652,653,0,3,male,21.0,0,0,Kalvik, Johannes Halvorsen, Mr,Adult
+653,654,1,3,female,28.0,0,0,O'Leary," Hanora ""Norah""", Miss,Adult
+654,655,0,3,female,18.0,0,0,Hegarty," Hanora ""Nora""", Miss,Teenager
+655,656,0,2,male,24.0,2,0,Hickman, Leonard Mark, Mr,Adult
+656,657,0,3,male,32.0,0,0,Radeff, Alexander, Mr,Adult
+657,658,0,3,female,32.0,1,1,Bourke, John (Catherine), Mrs,Adult
+658,659,0,2,male,23.0,0,0,Eitemiller, George Floyd, Mr,Adult
+659,660,0,1,male,58.0,0,2,Newell, Arthur Webster, Mr,Middle Age
+660,661,1,1,male,50.0,2,0,Frauenthal, Henry William, Dr,Middle Age
+661,662,0,3,male,40.0,0,0,Badt, Mohamed, Mr,Middle Age
+662,663,0,1,male,47.0,0,0,Colley, Edward Pomeroy, Mr,Middle Age
+663,664,0,3,male,36.0,0,0,Coleff, Peju, Mr,Adult
+664,665,1,3,male,20.0,1,0,Lindqvist, Eino William, Mr,Adult
+665,666,0,2,male,32.0,2,0,Hickman, Lewis, Mr,Adult
+666,667,0,2,male,25.0,0,0,Butler, Reginald Fenton, Mr,Adult
+667,668,0,3,male,32.0,0,0,Rommetvedt, Knud Paust, Mr,Adult
+668,669,0,3,male,43.0,0,0,Cook, Jacob, Mr,Middle Age
+669,670,1,1,female,32.0,1,0,Taylor, Elmer Zebley (Juliet Cummins Wright), Mrs,Adult
+670,671,1,2,female,40.0,1,1,Brown, Thomas William Solomon (Elizabeth Catherine Ford), Mrs,Middle Age
+671,672,0,1,male,31.0,1,0,Davidson, Thornton, Mr,Adult
+672,673,0,2,male,70.0,0,0,Mitchell, Henry Michael, Mr,Senior
+673,674,1,2,male,31.0,0,0,Wilhelms, Charles, Mr,Adult
+674,675,0,2,male,32.0,0,0,Watson, Ennis Hastings, Mr,Adult
+675,676,0,3,male,18.0,0,0,Edvardsson, Gustaf Hjalmar, Mr,Teenager
+676,677,0,3,male,24.0,0,0,Sawyer, Frederick Charles, Mr,Adult
+677,678,1,3,female,18.0,0,0,Turja, Anna Sofia, Miss,Teenager
+678,679,0,3,female,43.0,1,6,Goodwin, Frederick (Augusta Tyler), Mrs,Middle Age
+679,680,1,1,male,36.0,0,1,Cardeza, Thomas Drake Martinez, Mr,Adult
+680,681,0,3,female,28.0,0,0,Peters, Katie, Miss,Adult
+681,682,1,1,male,27.0,0,0,Hassab, Hammad, Mr,Adult
+682,683,0,3,male,20.0,0,0,Olsvigen, Thor Anderson, Mr,Adult
+683,684,0,3,male,14.0,5,2,Goodwin, Charles Edward, Mr,Teenager
+684,685,0,2,male,60.0,1,1,Brown, Thomas William Solomon, Mr,Senior
+685,686,0,2,male,25.0,1,2,Laroche, Joseph Philippe Lemercier, Mr,Adult
+686,687,0,3,male,14.0,4,1,Panula, Jaako Arnold, Mr,Teenager
+687,688,0,3,male,19.0,0,0,Dakic, Branko, Mr,Teenager
+688,689,0,3,male,18.0,0,0,Fischer, Eberhard Thelander, Mr,Teenager
+689,690,1,1,female,15.0,0,1,Madill, Georgette Alexandra, Miss,Teenager
+690,691,1,1,male,31.0,1,0,Dick, Albert Adrian, Mr,Adult
+691,692,1,3,female,4.0,0,1,Karun, Manca, Miss,Child
+692,693,1,3,male,32.0,0,0,Lam, Ali, Mr,Adult
+693,694,0,3,male,25.0,0,0,Saad, Khalil, Mr,Adult
+694,695,0,1,male,60.0,0,0,Weir, John, Col,Senior
+695,696,0,2,male,52.0,0,0,Chapman, Charles Henry, Mr,Middle Age
+696,697,0,3,male,44.0,0,0,Kelly, James, Mr,Middle Age
+697,698,1,3,female,28.0,0,0,Mullens," Katherine ""Katie""", Miss,Adult
+698,699,0,1,male,49.0,1,1,Thayer, John Borland, Mr,Middle Age
+699,700,0,3,male,42.0,0,0,Humblen, Adolf Mathias Nicolai Olsen, Mr,Middle Age
+700,701,1,1,female,18.0,1,0,Astor, John Jacob (Madeleine Talmadge Force), Mrs,Teenager
+701,702,1,1,male,35.0,0,0,Silverthorne, Spencer Victor, Mr,Adult
+702,703,0,3,female,18.0,0,1,Barbara, Saiide, Miss,Teenager
+703,704,0,3,male,25.0,0,0,Gallagher, Martin, Mr,Adult
+704,705,0,3,male,26.0,1,0,Hansen, Henrik Juul, Mr,Adult
+705,706,0,2,male,39.0,0,0,Morley," Henry Samuel (""Mr Henry Marshall"")", Mr,Adult
+706,707,1,2,female,45.0,0,0,Kelly," Florence ""Fannie""", Mrs,Middle Age
+707,708,1,1,male,42.0,0,0,Calderhead, Edward Pennington, Mr,Middle Age
+708,709,1,1,female,22.0,0,0,Cleaver, Alice, Miss,Adult
+709,710,1,3,male,4.0,1,1,Moubarek," Halim Gonios (""William George"")", Master,Child
+710,711,1,1,female,24.0,0,0,Mayne," Berthe Antonine (""Mrs de Villiers"")", Mlle,Adult
+711,712,0,1,male,32.0,0,0,Klaber, Herman, Mr,Adult
+712,713,1,1,male,48.0,1,0,Taylor, Elmer Zebley, Mr,Middle Age
+713,714,0,3,male,29.0,0,0,Larsson, August Viktor, Mr,Adult
+714,715,0,2,male,52.0,0,0,Greenberg, Samuel, Mr,Middle Age
+715,716,0,3,male,19.0,0,0,Soholt, Peter Andreas Lauritz Andersen, Mr,Teenager
+716,717,1,1,female,38.0,0,0,Endres, Caroline Louise, Miss,Adult
+717,718,1,2,female,27.0,0,0,Troutt," Edwina Celia ""Winnie""", Miss,Adult
+718,719,0,3,male,32.0,0,0,McEvoy, Michael, Mr,Adult
+719,720,0,3,male,33.0,0,0,Johnson, Malkolm Joackim, Mr,Adult
+720,721,1,2,female,6.0,0,1,Harper," Annie Jessie ""Nina""", Miss,Child
+721,722,0,3,male,17.0,1,0,Jensen, Svend Lauritz, Mr,Teenager
+722,723,0,2,male,34.0,0,0,Gillespie, William Henry, Mr,Adult
+723,724,0,2,male,50.0,0,0,Hodges, Henry Price, Mr,Middle Age
+724,725,1,1,male,27.0,1,0,Chambers, Norman Campbell, Mr,Adult
+725,726,0,3,male,20.0,0,0,Oreskovic, Luka, Mr,Adult
+726,727,1,2,female,30.0,3,0,Renouf, Peter Henry (Lillian Jefferys), Mrs,Adult
+727,728,1,3,female,28.0,0,0,Mannion, Margareth, Miss,Adult
+728,729,0,2,male,25.0,1,0,Bryhl, Kurt Arnold Gottfrid, Mr,Adult
+729,730,0,3,female,25.0,1,0,Ilmakangas, Pieta Sofia, Miss,Adult
+730,731,1,1,female,29.0,0,0,Allen, Elisabeth Walton, Miss,Adult
+731,732,0,3,male,11.0,0,0,Hassan, Houssein G N, Mr,Child
+732,733,0,2,male,32.0,0,0,Knight, Robert J, Mr,Adult
+733,734,0,2,male,23.0,0,0,Berriman, William John, Mr,Adult
+734,735,0,2,male,23.0,0,0,Troupiansky, Moses Aaron, Mr,Adult
+735,736,0,3,male,28.0,0,0,Williams, Leslie, Mr,Adult
+736,737,0,3,female,48.0,1,3,Ford, Edward (Margaret Ann Watson), Mrs,Middle Age
+737,738,1,1,male,35.0,0,0,Lesurer, Gustave J, Mr,Adult
+738,739,0,3,male,32.0,0,0,Ivanoff, Kanio, Mr,Adult
+739,740,0,3,male,32.0,0,0,Nankoff, Minko, Mr,Adult
+740,741,1,1,male,32.0,0,0,Hawksford, Walter James, Mr,Adult
+741,742,0,1,male,36.0,1,0,Cavendish, Tyrell William, Mr,Adult
+742,743,1,1,female,21.0,2,2,Ryerson," Susan Parker ""Suzette""", Miss,Adult
+743,744,0,3,male,24.0,1,0,McNamee, Neal, Mr,Adult
+744,745,1,3,male,31.0,0,0,Stranden, Juho, Mr,Adult
+745,746,0,1,male,70.0,1,1,Crosby, Edward Gifford, Capt,Senior
+746,747,0,3,male,16.0,1,1,Abbott, Rossmore Edward, Mr,Teenager
+747,748,1,2,female,30.0,0,0,Sinkkonen, Anna, Miss,Adult
+748,749,0,1,male,19.0,1,0,Marvin, Daniel Warner, Mr,Teenager
+749,750,0,3,male,31.0,0,0,Connaghton, Michael, Mr,Adult
+750,751,1,2,female,4.0,1,1,Wells, Joan, Miss,Child
+751,752,1,3,male,6.0,0,1,Moor, Meier, Master,Child
+752,753,0,3,male,33.0,0,0,Vande Velde, Johannes Joseph, Mr,Adult
+753,754,0,3,male,23.0,0,0,Jonkoff, Lalio, Mr,Adult
+754,755,1,2,female,48.0,1,2,Herman, Samuel (Jane Laver), Mrs,Middle Age
+755,756,1,2,male,1.0,1,1,Hamalainen, Viljo, Master,Child
+756,757,0,3,male,28.0,0,0,Carlsson, August Sigfrid, Mr,Adult
+757,758,0,2,male,18.0,0,0,Bailey, Percy Andrew, Mr,Teenager
+758,759,0,3,male,34.0,0,0,Theobald, Thomas Leonard, Mr,Adult
+759,760,1,1,female,33.0,0,0,Rothes, of (Lucy Noel Martha Dyer-Edwards), the Countess,Adult
+760,761,0,3,male,32.0,0,0,Garfirth, John, Mr,Adult
+761,762,0,3,male,41.0,0,0,Nirva, Iisakki Antino Aijo, Mr,Middle Age
+762,763,1,3,male,20.0,0,0,Barah, Hanna Assi, Mr,Adult
+763,764,1,1,female,36.0,1,2,Carter, William Ernest (Lucile Polk), Mrs,Adult
+764,765,0,3,male,16.0,0,0,Eklund, Hans Linus, Mr,Teenager
+765,766,1,1,female,51.0,1,0,Hogeboom, John C (Anna Andrews), Mrs,Middle Age
+766,767,0,1,male,40.0,0,0,Brewe, Arthur Jackson, Dr,Middle Age
+767,768,0,3,female,30.0,0,0,Mangan, Mary, Miss,Adult
+768,769,0,3,male,32.0,1,0,Moran, Daniel J, Mr,Adult
+769,770,0,3,male,32.0,0,0,Gronnestad, Daniel Danielsen, Mr,Adult
+770,771,0,3,male,24.0,0,0,Lievens, Rene Aime, Mr,Adult
+771,772,0,3,male,48.0,0,0,Jensen, Niels Peder, Mr,Middle Age
+772,773,0,2,female,57.0,0,0,Mack, (Mary), Mrs,Middle Age
+773,774,0,3,male,32.0,0,0,Elias, Dibo, Mr,Adult
+774,775,1,2,female,54.0,1,3,Hocking, Elizabeth (Eliza Needs), Mrs,Middle Age
+775,776,0,3,male,18.0,0,0,Myhrman, Pehr Fabian Oliver Malkolm, Mr,Teenager
+776,777,0,3,male,32.0,0,0,Tobin, Roger, Mr,Adult
+777,778,1,3,female,5.0,0,0,Emanuel, Virginia Ethel, Miss,Child
+778,779,0,3,male,32.0,0,0,Kilgannon, Thomas J, Mr,Adult
+779,780,1,1,female,43.0,0,1,Robert, Edward Scott (Elisabeth Walton McMillan), Mrs,Middle Age
+780,781,1,3,female,13.0,0,0,Ayoub, Banoura, Miss,Teenager
+781,782,1,1,female,17.0,1,0,Dick, Albert Adrian (Vera Gillespie), Mrs,Teenager
+782,783,0,1,male,29.0,0,0,Long, Milton Clyde, Mr,Adult
+783,784,0,3,male,31.0,1,2,Johnston, Andrew G, Mr,Adult
+784,785,0,3,male,25.0,0,0,Ali, William, Mr,Adult
+785,786,0,3,male,25.0,0,0,Harmer, Abraham (David Lishin), Mr,Adult
+786,787,1,3,female,18.0,0,0,Sjoblom, Anna Sofia, Miss,Teenager
+787,788,0,3,male,8.0,4,1,Rice, George Hugh, Master,Child
+788,789,1,3,male,1.0,1,2,Dean, Bertram Vere, Master,Child
+789,790,0,1,male,46.0,0,0,Guggenheim, Benjamin, Mr,Middle Age
+790,791,0,3,male,32.0,0,0,Keane," Andrew ""Andy""", Mr,Adult
+791,792,0,2,male,16.0,0,0,Gaskell, Alfred, Mr,Teenager
+793,794,0,1,male,32.0,0,0,Hoyt, William Fisher, Mr,Adult
+794,795,0,3,male,25.0,0,0,Dantcheff, Ristiu, Mr,Adult
+795,796,0,2,male,39.0,0,0,Otter, Richard, Mr,Adult
+796,797,1,1,female,49.0,0,0,Leader, Alice (Farnham), Dr,Middle Age
+797,798,1,3,female,31.0,0,0,Osman, Mara, Mrs,Adult
+798,799,0,3,male,30.0,0,0,Ibrahim Shawah, Yousseff, Mr,Adult
+799,800,0,3,female,30.0,1,1,Van Impe, Jean Baptiste (Rosalie Paula Govaert), Mrs,Adult
+800,801,0,2,male,34.0,0,0,Ponesell, Martin, Mr,Adult
+801,802,1,2,female,31.0,1,1,Collyer, Harvey (Charlotte Annie Tate), Mrs,Adult
+802,803,1,1,male,11.0,1,2,Carter, William Thornton II, Master,Child
+803,804,1,3,male,0.0,0,1,Thomas, Assad Alexander, Master,Child
+804,805,1,3,male,27.0,0,0,Hedman, Oskar Arvid, Mr,Adult
+805,806,0,3,male,31.0,0,0,Johansson, Karl Johan, Mr,Adult
+806,807,0,1,male,39.0,0,0,Andrews, Thomas Jr, Mr,Adult
+807,808,0,3,female,18.0,0,0,Pettersson, Ellen Natalia, Miss,Teenager
+808,809,0,2,male,39.0,0,0,Meyer, August, Mr,Adult
+809,810,1,1,female,33.0,1,0,Chambers, Norman Campbell (Bertha Griggs), Mrs,Adult
+810,811,0,3,male,26.0,0,0,Alexander, William, Mr,Adult
+811,812,0,3,male,39.0,0,0,Lester, James, Mr,Adult
+812,813,0,2,male,35.0,0,0,Slemen, Richard James, Mr,Adult
+813,814,0,3,female,6.0,4,2,Andersson, Ebba Iris Alfrida, Miss,Child
+814,815,0,3,male,30.0,0,0,Tomlin, Ernest Portage, Mr,Adult
+815,816,0,1,male,32.0,0,0,Fry, Richard, Mr,Adult
+816,817,0,3,female,23.0,0,0,Heininen, Wendla Maria, Miss,Adult
+817,818,0,2,male,31.0,1,1,Mallet, Albert, Mr,Adult
+818,819,0,3,male,43.0,0,0,Holm, John Fredrik Alexander, Mr,Middle Age
+819,820,0,3,male,10.0,3,2,Skoog, Karl Thorsten, Master,Child
+820,821,1,1,female,52.0,1,1,Hays, Charles Melville (Clara Jennings Gregg), Mrs,Middle Age
+821,822,1,3,male,27.0,0,0,Lulic, Nikola, Mr,Adult
+822,823,0,1,male,38.0,0,0,Reuchlin, John George, Jonkheer,Adult
+823,824,1,3,female,27.0,0,1,Moor, (Beila), Mrs,Adult
+824,825,0,3,male,2.0,4,1,Panula, Urho Abraham, Master,Child
+825,826,0,3,male,32.0,0,0,Flynn, John, Mr,Adult
+826,827,0,3,male,32.0,0,0,Lam, Len, Mr,Adult
+827,828,1,2,male,1.0,0,2,Mallet, Andre, Master,Child
+828,829,1,3,male,32.0,0,0,McCormack, Thomas Joseph, Mr,Adult
+829,830,1,1,female,62.0,0,0,Stone, George Nelson (Martha Evelyn), Mrs,Senior
+830,831,1,3,female,15.0,1,0,Yasbeck, Antoni (Selini Alexander), Mrs,Teenager
+831,832,1,2,male,1.0,1,1,Richards, George Sibley, Master,Child
+832,833,0,3,male,32.0,0,0,Saad, Amin, Mr,Adult
+833,834,0,3,male,23.0,0,0,Augustsson, Albert, Mr,Adult
+834,835,0,3,male,18.0,0,0,Allum, Owen George, Mr,Teenager
+835,836,1,1,female,39.0,1,1,Compton, Sara Rebecca, Miss,Adult
+836,837,0,3,male,21.0,0,0,Pasic, Jakob, Mr,Adult
+837,838,0,3,male,32.0,0,0,Sirota, Maurice, Mr,Adult
+838,839,1,3,male,32.0,0,0,Chip, Chang, Mr,Adult
+839,840,1,1,male,32.0,0,0,Marechal, Pierre, Mr,Adult
+840,841,0,3,male,20.0,0,0,Alhomaki, Ilmari Rudolf, Mr,Adult
+841,842,0,2,male,16.0,0,0,Mudd, Thomas Charles, Mr,Teenager
+842,843,1,1,female,30.0,0,0,Serepeca, Augusta, Miss,Adult
+843,844,0,3,male,34.0,0,0,Lemberopolous, Peter L, Mr,Adult
+844,845,0,3,male,17.0,0,0,Culumovic, Jeso, Mr,Teenager
+845,846,0,3,male,42.0,0,0,Abbing, Anthony, Mr,Middle Age
+847,848,0,3,male,35.0,0,0,Markoff, Marin, Mr,Adult
+848,849,0,2,male,28.0,0,1,Harper, John, Rev,Adult
+849,850,1,1,female,32.0,1,0,Goldenberg, Samuel L (Edwiga Grabowska), Mrs,Adult
+850,851,0,3,male,4.0,4,2,Andersson, Sigvard Harald Elias, Master,Child
+851,852,0,3,male,74.0,0,0,Svensson, Johan, Mr,Senior
+852,853,0,3,female,9.0,1,1,Boulos, Nourelain, Miss,Child
+853,854,1,1,female,16.0,0,1,Lines, Mary Conover, Miss,Teenager
+854,855,0,2,female,44.0,1,0,Carter, Ernest Courtenay (Lilian Hughes), Mrs,Middle Age
+855,856,1,3,female,18.0,0,1,Aks, Sam (Leah Rosen), Mrs,Teenager
+856,857,1,1,female,45.0,1,1,Wick, George Dennick (Mary Hitchcock), Mrs,Middle Age
+857,858,1,1,male,51.0,0,0,Daly, Peter Denis , Mr,Middle Age
+858,859,1,3,female,24.0,0,3,Baclini, Solomon (Latifa Qurban), Mrs,Adult
+859,860,0,3,male,32.0,0,0,Razi, Raihed, Mr,Adult
+860,861,0,3,male,41.0,2,0,Hansen, Claus Peter, Mr,Middle Age
+861,862,0,2,male,21.0,1,0,Giles, Frederick Edward, Mr,Adult
+862,863,1,1,female,48.0,0,0,Swift, Frederick Joel (Margaret Welles Barron), Mrs,Middle Age
+864,865,0,2,male,24.0,0,0,Gill, John William, Mr,Adult
+865,866,1,2,female,42.0,0,0,Bystrom, (Karolina), Mrs,Middle Age
+866,867,1,2,female,27.0,1,0,Duran y More, Asuncion, Miss,Adult
+867,868,0,1,male,31.0,0,0,Roebling, Washington Augustus II, Mr,Adult
+868,869,0,3,male,32.0,0,0,van Melkebeke, Philemon, Mr,Adult
+869,870,1,3,male,4.0,1,1,Johnson, Harold Theodor, Master,Child
+870,871,0,3,male,26.0,0,0,Balkic, Cerin, Mr,Adult
+871,872,1,1,female,47.0,1,1,Beckwith, Richard Leonard (Sallie Monypeny), Mrs,Middle Age
+872,873,0,1,male,33.0,0,0,Carlsson, Frans Olof, Mr,Adult
+873,874,0,3,male,47.0,0,0,Vander Cruyssen, Victor, Mr,Middle Age
+874,875,1,2,female,28.0,1,0,Abelson, Samuel (Hannah Wizosky), Mrs,Adult
+875,876,1,3,female,15.0,0,0,Najib," Adele Kiamie ""Jane""", Miss,Teenager
+876,877,0,3,male,20.0,0,0,Gustafsson, Alfred Ossian, Mr,Adult
+877,878,0,3,male,19.0,0,0,Petroff, Nedelio, Mr,Teenager
+878,879,0,3,male,32.0,0,0,Laleff, Kristo, Mr,Adult
+879,880,1,1,female,56.0,0,1,Potter, Thomas Jr (Lily Alexenia Wilson), Mrs,Middle Age
+880,881,1,2,female,25.0,0,1,Shelley, William (Imanita Parrish Hall), Mrs,Adult
+881,882,0,3,male,33.0,0,0,Markun, Johann, Mr,Adult
+882,883,0,3,female,22.0,0,0,Dahlberg, Gerda Ulrika, Miss,Adult
+883,884,0,2,male,28.0,0,0,Banfield, Frederick James, Mr,Adult
+884,885,0,3,male,25.0,0,0,Sutehall, Henry Jr, Mr,Adult
+885,886,0,3,female,39.0,0,5,Rice, William (Margaret Norton), Mrs,Adult
+886,887,0,2,male,27.0,0,0,Montvila, Juozas, Rev,Adult
+887,888,1,1,female,19.0,0,0,Graham, Margaret Edith, Miss,Teenager
+888,889,0,3,female,10.0,1,2,Johnston," Catherine Helen ""Carrie""", Miss,Child
+889,890,1,1,male,26.0,0,0,Behr, Karl Howell, Mr,Adult
+890,891,0,3,male,32.0,0,0,Dooley, Patrick, Mr,Adult
